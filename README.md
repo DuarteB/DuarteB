@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuarteB
-- 👀 I’m interested in JavaScript adn Java
+- 👀 I’m interested in JavaScript and Java
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me eduarte.dev@gmail.com
